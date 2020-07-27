@@ -1,0 +1,13 @@
+Verbose - Refers to how much information we want to see during training,
+	Recommend 1
+
+Have not done plotting the model tp show layers // will use matplotlib
+Labeling of predicted element
+
+Softmax activation function gives us the probabilities
+Compiling the model simple means storing the model after traing it
+Hot one encoding transforms the data to an array that has one where the value is and zero for rest
+	us np_utils.to_categorical for y train and test to do that
+
+Saliency visualization
+	Example is a bird on a tree, how sure are we that the model is not associating the trees with birds?

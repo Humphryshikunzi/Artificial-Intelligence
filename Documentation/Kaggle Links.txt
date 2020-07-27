@@ -1,0 +1,5 @@
+https://www.kaggle.com/raajparekh/object-detection-with-opencv-yolov3
+https://www.kaggle.com/kanncaa1/time-series-prediction-tutorial-with-eda
+https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis
+https://www.kaggle.com/jesperdramsch/intro-chest-xray-dicom-viz-u-nets-full-data
+https://www.kaggle.com/shivamb/cnn-architectures-vgg-resnet-inception-tl

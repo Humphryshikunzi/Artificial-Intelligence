@@ -1,0 +1,4 @@
+Reduces number of epochs needed for our CNN to converge
+Brings stability to our neural network
+Reuces overfitting
+Increases traing time but we can compensate this with larger learning rate
