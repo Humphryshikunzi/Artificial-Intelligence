@@ -1,0 +1,4 @@
+Doc at
+	httpsdocs.microsoft.comen-usazurestorageblobsstorage-quickstart-blobs-python
+
+https://stackoverflow.com/questions/48881228/azure-blob-read-using-python
